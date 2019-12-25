@@ -14,3 +14,5 @@ Components Used:
 - IR sensors x 8
 - JSumo IR Switch x 1
 - Turnigy 460 mah 2s 20C - 40C LiPo battery x 1
+
+The file LF_Slow.ino contains the slower code in which the PWM of the motors and the EDF is less while the file LF_Fast.ino contains the faster code in which the PWM of the motors and the EDF is greater.
