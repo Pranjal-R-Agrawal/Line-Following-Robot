@@ -2,7 +2,7 @@
 
 The line follower follows a 1.5cm black line on a white background. It uses 8 infrared sensors to detect the light and then follow it using PID logic. The IR sensor works by emmitting infrared rays and then varying the resistance based on the intensity of light recieved. Based on this the arduino detects where the line exactly is relative to it. 
 
-PCB design is attached in file Main_PCB.pdf
+PCB design is attached in file X1.pdf
 
 Components Used:
 
