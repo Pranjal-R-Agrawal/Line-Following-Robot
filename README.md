@@ -16,3 +16,6 @@ Components Used:
 - Turnigy 460 mah 2s 20C - 40C LiPo battery x 1
 
 The file LF_Slow.ino contains the slower code in which the PWM of the motors and the EDF is less while the file LF_Fast.ino contains the faster code in which the PWM of the motors and the EDF is greater.
+
+Testing Video - https://www.youtube.com/shorts/rUErMrPgKn0
+FInal Run - https://www.youtube.com/shorts/a4Mq1eNVcf0
